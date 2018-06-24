@@ -68,6 +68,6 @@ section {
   border:2px;
 }
  #cont {
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: auto;
+	margin-left: auto;
 }
